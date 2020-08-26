@@ -1,1 +1,0 @@
-Producer Consumer paradigm that allows us to synchronize tasks
